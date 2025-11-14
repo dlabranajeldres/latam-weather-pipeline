@@ -1,0 +1,20 @@
+# Entorno virtual
+venv/
+
+# Base de datos local 
+weather.db
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local de VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Archivos temporales
+.DS_Store
